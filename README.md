@@ -1,2 +1,2 @@
-# St
-что-то
+# stepik-auto-test-course
+automatization testing course
